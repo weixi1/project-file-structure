@@ -1,4 +1,4 @@
-import active.addition as addition
+from active import addition 
 
 def test_addition():
     # Assert

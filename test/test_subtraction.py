@@ -1,4 +1,4 @@
-import active.subtraction as subtraction
+from active import subtraction
 
 def test_subtraction():
     # Assert
